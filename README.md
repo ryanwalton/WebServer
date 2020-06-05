@@ -1,5 +1,5 @@
 # WebServer
-Creates simple default web server PRACTICE
+Creates simple default web server
 
 When using this project, first create a simple HTTP file. You can put whatever you please inside of it.
 
